@@ -15,7 +15,7 @@
 - Checked and fixed inconsistent duration formats
 
 ## Files Included
-- netflix_data.xlsx(1)
+- cleaned_netflix_data.xlsx(1)
 - netflix_titles.csv
 
 ## Outcome
